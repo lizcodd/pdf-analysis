@@ -1,7 +1,7 @@
 # pdf-analysis
 Some code for downloading and analyzing journal articles using Crossref API, Grobid, etc.
 
-## Step 1: Collect pdfs to analyze...
+## Step 1: Collect pdfs to analyze
 
 ## scrapeScholarPdfs.sh
 
@@ -24,7 +24,7 @@ python3 getCrossrefPdfs.py lions,tigers . 100")
 
 I used Grobid (https://github.com/kermitt2/grobid) and the accompanying python client (https://github.com/kermitt2/grobid_client_python) to turn all pdfs in xml files.
 
-## Step 3: Summarizing data from xmls in a .csv
+## Step 3: Summarizing data from xmls in a csv
 
 ## xml2csv.sh
 
@@ -43,8 +43,8 @@ python3 xml2csv.py papers .
 
 Just some initial ideas:
 
-Find which Acropora species are in each article, rank the species by most commonly studied. Could be expanded to all genera.
+1) Find which Acropora species are in each article, rank the species by most commonly studied. Could be expanded to all genera.
 
-Find which genes are in each article, rank genes by most commonly studied. A bit problematic because I think sometimes full protein names and official gene names aren't used verbatim. I took my list from Uniprot (https://www.uniprot.org/uniprot/?query=organism%3Aacropora&sort=score). Only used genes listed on Uniprot for Acropora, could be expanded to genes from all genera.
+2) Find which genes are in each article, rank genes by most commonly studied. A bit problematic because I think sometimes full protein names and official gene names aren't used verbatim. I took my list from Uniprot (https://www.uniprot.org/uniprot/?query=organism%3Aacropora&sort=score). Only used genes listed on Uniprot for Acropora, could be expanded to genes from all genera.
 
-Sorting articles: I think the idea of TF-IDF distance is interesting, so I tried nearest-neighbor and K-mean models with turicreate. Doesn't do much on my test datasets but could be interesting if analyzing a lot of articles and/or the article fulltext.
+3) Sorting articles: I think the idea of TF-IDF distance is interesting, so I tried nearest-neighbor and K-mean models with turicreate. Doesn't do much on my test datasets but could be interesting if analyzing a lot of articles and/or the article fulltext.
