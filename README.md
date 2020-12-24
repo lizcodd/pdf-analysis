@@ -15,7 +15,7 @@ Second attempt was to find pdfs using Crossref.org and then download them from t
 
 ### Usage:
 
-python3 getCrossrefPdfs.py <query_string> <output_dir> <MAX_RESULTS>")
+python3 getCrossrefPdfs.py <query_string> <output_dir> <MAX_RESULTS>
 
 e.g. to download a max of 100 articles with the words lions and/or tigers and output pdfs in current directory:
 python3 getCrossrefPdfs.py lions,tigers . 100")
@@ -28,7 +28,7 @@ I used Grobid (https://github.com/kermitt2/grobid) and the accompanying python c
 
 ## xml2csv.sh
 
-A script to extract useful information (e.g. doi, title, date, abstract, language) from the xmls and store it is a csv that can then be analyzed.
+A script to extract useful information (e.g. doi, title, date, abstract, language) from the xmls and store it in a csv that can then be analyzed.
 
 ### Usage:
 
