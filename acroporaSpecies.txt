@@ -1,158 +1,295 @@
 
+Acropora abrolhosensis Veron, 1985
+Acropora abrotanoides (Lamarck, 1816)
+Acropora acervata (Dana, 1846)
+Acropora aculeus (Dana, 1846)
+Acropora acuminata (Verrill, 1864)
+Acropora alvarezi† Wallace, 2008
+Acropora anglica† (Duncan, 1866)
+Acropora anthocercis (Brook, 1893)
+Acropora arabensis Hodgson and Carpenter, 1995
+Acropora arafura Wallace, Done & Muir, 2012
+Acropora aspera (Dana, 1846)
+Acropora austera (Dana, 1846)
+Acropora awi Wallace and Wolstenholme, 1998
+Acropora bartonensis† Wallace, 2008
+Acropora batunai Wallace, 1997
+Acropora borneoensis† (Felix, 1921)
+Acropora branchi Riegl, 1995
+Acropora britannica† Wallace, 2008
+Acropora bushyensis Veron and Wallace, 1984
+Acropora capillaris (Klunzinger, 1879)
+Acropora cardenae Wells, 1986
+Acropora carduus (Dana, 1846)
+Acropora caroliniana Nemenzo, 1976
+Acropora cerealis (Dana, 1846)
+Acropora cervicornis (Lamarck, 1816) - staghorn coral
+Acropora chesterfieldensis Veron and Wallace, 1984
+Acropora clathrata (Brook, 1891)
+Acropora cytherea (Dana, 1846)
+Acropora darrellae† Santodomingo, Wallace & Johnson, 2015
+Acropora deformis† (Michelin, 1840)
+Acropora dendrum (Bassett-Smith, 1890)
+Acropora derawaensis Wallace, 1997
+Acropora desalwii Wallace, 1994
+Acropora digitifera (Dana, 1846)
+Acropora divaricata (Dana, 1846)
+Acropora donei Veron and Wallace, 1984
+Acropora downingi Wallace, 1999
+Acropora duncani† (Reuss, 1866)
+Acropora echinata (Dana, 1846)
+Acropora elegans (Milne-Edwards and Haime, 1860)
+Acropora elenae† Santodomingo, Wallace & Johnson, 2015
+Acropora elseyi (Brook, 1892)
+Acropora emanuelae† Santodomingo, Wallace & Johnson, 2015
+Acropora eurystoma (Klunzinger, 1879)
+Acropora fastigata Nemenzo, 1967
+Acropora fennemai† (Gerth, 1921)
+Acropora fenneri Veron, 2000
+Acropora filiformis Veron, 2000
+Acropora florida (Dana, 1846)
+Acropora gemmifera (Brook, 1892)
+Acropora glauca (Brook, 1893)
+Acropora globiceps (Dana, 1846)
+Acropora gomezi Veron, 2000
+Acropora grandis (Brook, 1892)
+Acropora granulosa (Milne-Edwards and Haime, 1860)
+Acropora haidingeri† (Reuss, 1864)
+Acropora halmaherae Wallace and Wolstenholme, 1998
+Acropora hasibuani† Santodomingo, Wallace & Johnson, 2015
+Acropora hemprichii (Ehrenberg, 1834)
+Acropora herklotsi† (Reuss, 1866)
+Acropora hoeksemai Wallace, 1997
+Acropora horrida (Dana, 1846)
+Acropora humilis (Dana, 1846)
+Acropora hyacinthus (Dana, 1846)
+Acropora indonesia Wallace, 1997
+Acropora intermedia (Brook, 1891)
+Acropora jacquelineae Wallace, 1994
+Acropora japonica Veron, 2000
+Acropora kimbeensis Wallace, 1999
+Acropora kirstyae Veron and Wallace, 1984
+Acropora kosurini Wallace, 1994
+Acropora lamarcki Veron, 2000
+Acropora latistella (Brook, 1892)
+Acropora laurae† Santodomingo, Wallace & Johnson, 2015
+Acropora lavandulina† (Michelin, 1840)
+Acropora listeri (Brook, 1893)
+Acropora loisetteae Wallace, 1994
+Acropora lokani Wallace, 1994
+Acropora longicyathus (Milne-Edwards and Haime, 1860)
+Acropora loripes (Brook, 1892)
+Acropora lovelli Veron and Wallace, 1984
+Acropora lutkeni Crossland, 1952
+Acropora macrocalyx† Wallace & Bosselini, 2015
+Acropora microclados (Ehrenberg, 1834)
+Acropora microphthalma (Verrill, 1869)
+Acropora millepora (Ehrenberg, 1834)
+Acropora monticulosa (Brueggemann, 1879)
+Acropora mossambica Riegl, 1995
+Acropora multiacuta Nemenzo, 1967
+Acropora muricata (Linnaeus, 1758)
+Acropora nana (Studer, 1878)
+Acropora nasuta (Dana, 1846)
+Acropora natalensis Riegl, 1995
+Acropora ornata† (DeFrance, 1828)
+Acropora palmata (Lamarck, 1816) - elkhorn coral
+Acropora palmerae Wells, 1954
+Acropora paniculata Verrill, 1902
+Acropora papillare Latypov, 1992
+Acropora pectinata Veron, 2000
+Acropora pharaonis (Milne-Edwards and Haime, 1860)
+Acropora pichoni Wallace, 1999
+Acropora piedmontensis† Wallace & Bosselini, 2015
+Acropora plumosa Wallace and Wolstenholme, 1998
+Acropora polystoma (Brook, 1891)
+Acropora prolifera (Lamarck, 1816) - fused staghorn coral
+Acropora proteacea† Wallace, 2008
+Acropora proximalis Veron, 2000
+Acropora pulchra (Brook, 1891)
+Acropora renemai† Santodomingo, Wallace & Johnson, 2015
+Acropora retusa (Dana, 1846)
+Acropora ridzwani Ditlev, 2003
+Acropora robusta (Dana, 1846)
+Acropora roemeri† (Duncan, 1866)
+Acropora rongelapensis Richards & Wallace, 2004
+Acropora roseni Wallace, 1999
+Acropora rudis (Rehberg, 1892)
+Acropora rufa Veron, 2000
+Acropora russelli Wallace, 1994
+Acropora salentina† Wallace & Bosselini, 2015
+Acropora samoensis (Brook, 1891)
+Acropora sarmentosa (Brook, 1892)
+Acropora secale (Studer, 1878)
+Acropora selago (Studer, 1878)
+Acropora seriata (Ehrenberg, 1834)
+Acropora serrata Lamarck
+Acropora simplex Wallace and Wolstenholme, 1998
+Acropora sirikitiae Wallace, Phongsuwan & Muir, 2012
+Acropora slovenica† Wallace & Bosselini, 2015
+Acropora solanderi† (Defrance, 1828)
+Acropora solitaryensis Veron and Wallace, 1984
+Acropora sordiensis Riegl, 1995
+Acropora spathulata (Brook, 1891)
+Acropora speciosa (Quelch, 1886)
+Acropora spicifera (Dana, 1846)
+Acropora squarrosa (Ehrenberg, 1834)
+Acropora striata (Verrill, 1866)
+Acropora subglabra (Brook, 1891)
+Acropora subulata (Dana, 1846)
+Acropora suharsonoi Wallace, 1994
+Acropora sukarnoi Wallace, 1997
+Acropora tanegashimensi -s Veron, 1990
+Acropora tenella (Brook, 1892)
+Acropora tenuis (Dana, 1846)
+Acropora torihalimeda Wallace, 1994
+Acropora tortuosa (Dana, 1846)
+Acropora tuberculosa (Milne Edwards, 1860)
+Acropora turaki Wallace, 1994
+Acropora valenciennesi (Milne-Edwards and Haime, 1860)
+Acropora valida (Dana, 1846)
+Acropora variolosa (Klunzinger, 1879)
+Acropora vaughani Wells, 1954
+Acropora verweyi Veron and Wallace, 1984
+Acropora walindii Wallace, 1999
+Acropora willisae Veron and Wallace, 1984
+Acropora wilsonae† Wallace, 2008
+Acropora yongei Veron and Wallace, 1984
 
-    Acropora abrolhosensis Veron, 1985
-    Acropora abrotanoides (Lamarck, 1816)
-    Acropora acervata (Dana, 1846)
-    Acropora aculeus (Dana, 1846)
-    Acropora acuminata (Verrill, 1864)
-    Acropora alvarezi† Wallace, 2008
-    Acropora anglica† (Duncan, 1866)
-    Acropora anthocercis (Brook, 1893)
-    Acropora arabensis Hodgson and Carpenter, 1995
-    Acropora arafura Wallace, Done & Muir, 2012
-    Acropora aspera (Dana, 1846)
-    Acropora austera (Dana, 1846)
-    Acropora awi Wallace and Wolstenholme, 1998
-    Acropora bartonensis† Wallace, 2008
-    Acropora batunai Wallace, 1997
-    Acropora borneoensis† (Felix, 1921)
-    Acropora branchi Riegl, 1995
-    Acropora britannica† Wallace, 2008
-    Acropora bushyensis Veron and Wallace, 1984
-    Acropora capillaris (Klunzinger, 1879)
-    Acropora cardenae Wells, 1986
-    Acropora carduus (Dana, 1846)
-    Acropora caroliniana Nemenzo, 1976
-    Acropora cerealis (Dana, 1846)
-    Acropora cervicornis (Lamarck, 1816) - staghorn coral
-    Acropora chesterfieldensis Veron and Wallace, 1984
-    Acropora clathrata (Brook, 1891)
-    Acropora cytherea (Dana, 1846)
-    Acropora darrellae† Santodomingo, Wallace & Johnson, 2015
-    Acropora deformis† (Michelin, 1840)
-    Acropora dendrum (Bassett-Smith, 1890)
-    Acropora derawaensis Wallace, 1997
-    Acropora desalwii Wallace, 1994
-    Acropora digitifera (Dana, 1846)
-    Acropora divaricata (Dana, 1846)
-    Acropora donei Veron and Wallace, 1984
-    Acropora downingi Wallace, 1999
-    Acropora duncani† (Reuss, 1866)
-    Acropora echinata (Dana, 1846)
-    Acropora elegans (Milne-Edwards and Haime, 1860)
-    Acropora elenae† Santodomingo, Wallace & Johnson, 2015
-    Acropora elseyi (Brook, 1892)
-    Acropora emanuelae† Santodomingo, Wallace & Johnson, 2015
-    Acropora eurystoma (Klunzinger, 1879)
-    Acropora fastigata Nemenzo, 1967
-    Acropora fennemai† (Gerth, 1921)
-    Acropora fenneri Veron, 2000
-    Acropora filiformis Veron, 2000
-    Acropora florida (Dana, 1846)
-    Acropora gemmifera (Brook, 1892)
-    Acropora glauca (Brook, 1893)
-    Acropora globiceps (Dana, 1846)
-    Acropora gomezi Veron, 2000
-    Acropora grandis (Brook, 1892)
-    Acropora granulosa (Milne-Edwards and Haime, 1860)
-    Acropora haidingeri† (Reuss, 1864)
-    Acropora halmaherae Wallace and Wolstenholme, 1998
-    Acropora hasibuani† Santodomingo, Wallace & Johnson, 2015
-    Acropora hemprichii (Ehrenberg, 1834)
-    Acropora herklotsi† (Reuss, 1866)
-    Acropora hoeksemai Wallace, 1997
-    Acropora horrida (Dana, 1846)
-    Acropora humilis (Dana, 1846)
-    Acropora hyacinthus (Dana, 1846)
-    Acropora indonesia Wallace, 1997
-    Acropora intermedia (Brook, 1891)
-    Acropora jacquelineae Wallace, 1994
-    Acropora japonica Veron, 2000
-    Acropora kimbeensis Wallace, 1999
-    Acropora kirstyae Veron and Wallace, 1984
-    Acropora kosurini Wallace, 1994
-    Acropora lamarcki Veron, 2000
-    Acropora latistella (Brook, 1892)
-    Acropora laurae† Santodomingo, Wallace & Johnson, 2015
-    Acropora lavandulina† (Michelin, 1840)
-    Acropora listeri (Brook, 1893)
-    Acropora loisetteae Wallace, 1994
-    Acropora lokani Wallace, 1994
-    Acropora longicyathus (Milne-Edwards and Haime, 1860)
-    Acropora loripes (Brook, 1892)
-    Acropora lovelli Veron and Wallace, 1984
-    Acropora lutkeni Crossland, 1952
-    Acropora macrocalyx† Wallace & Bosselini, 2015
-    Acropora microclados (Ehrenberg, 1834)
-    Acropora microphthalma (Verrill, 1869)
-    Acropora millepora (Ehrenberg, 1834)
-    Acropora monticulosa (Brueggemann, 1879)
-    Acropora mossambica Riegl, 1995
-    Acropora multiacuta Nemenzo, 1967
-    Acropora muricata (Linnaeus, 1758)
-    Acropora nana (Studer, 1878)
-    Acropora nasuta (Dana, 1846)
-    Acropora natalensis Riegl, 1995
-    Acropora ornata† (DeFrance, 1828)
-    Acropora palmata (Lamarck, 1816) - elkhorn coral
-    Acropora palmerae Wells, 1954
-    Acropora paniculata Verrill, 1902
-    Acropora papillare Latypov, 1992
-    Acropora pectinata Veron, 2000
-    Acropora pharaonis (Milne-Edwards and Haime, 1860)
-    Acropora pichoni Wallace, 1999
-    Acropora piedmontensis† Wallace & Bosselini, 2015
-    Acropora plumosa Wallace and Wolstenholme, 1998
-    Acropora polystoma (Brook, 1891)
-    Acropora prolifera (Lamarck, 1816) - fused staghorn coral
-    Acropora proteacea† Wallace, 2008
-    Acropora proximalis Veron, 2000
-    Acropora pulchra (Brook, 1891)
-    Acropora renemai† Santodomingo, Wallace & Johnson, 2015
-    Acropora retusa (Dana, 1846)
-    Acropora ridzwani Ditlev, 2003
-    Acropora robusta (Dana, 1846)
-    Acropora roemeri† (Duncan, 1866)
-    Acropora rongelapensis Richards & Wallace, 2004
-    Acropora roseni Wallace, 1999
-    Acropora rudis (Rehberg, 1892)
-    Acropora rufa Veron, 2000
-    Acropora russelli Wallace, 1994
-    Acropora salentina† Wallace & Bosselini, 2015
-    Acropora samoensis (Brook, 1891)
-    Acropora sarmentosa (Brook, 1892)
-    Acropora secale (Studer, 1878)
-    Acropora selago (Studer, 1878)
-    Acropora seriata (Ehrenberg, 1834)
-    Acropora serrata Lamarck
-    Acropora simplex Wallace and Wolstenholme, 1998
-    Acropora sirikitiae Wallace, Phongsuwan & Muir, 2012
-    Acropora slovenica† Wallace & Bosselini, 2015
-    Acropora solanderi† (Defrance, 1828)
-    Acropora solitaryensis Veron and Wallace, 1984
-    Acropora sordiensis Riegl, 1995
-    Acropora spathulata (Brook, 1891)
-    Acropora speciosa (Quelch, 1886)
-    Acropora spicifera (Dana, 1846)
-    Acropora squarrosa (Ehrenberg, 1834)
-    Acropora striata (Verrill, 1866)
-    Acropora subglabra (Brook, 1891)
-    Acropora subulata (Dana, 1846)
-    Acropora suharsonoi Wallace, 1994
-    Acropora sukarnoi Wallace, 1997
-    Acropora tanegashimensi -s Veron, 1990
-    Acropora tenella (Brook, 1892)
-    Acropora tenuis (Dana, 1846)
-    Acropora torihalimeda Wallace, 1994
-    Acropora tortuosa (Dana, 1846)
-    Acropora tuberculosa (Milne Edwards, 1860)
-    Acropora turaki Wallace, 1994
-    Acropora valenciennesi (Milne-Edwards and Haime, 1860)
-    Acropora valida (Dana, 1846)
-    Acropora variolosa (Klunzinger, 1879)
-    Acropora vaughani Wells, 1954
-    Acropora verweyi Veron and Wallace, 1984
-    Acropora walindii Wallace, 1999
-    Acropora willisae Veron and Wallace, 1984
-    Acropora wilsonae† Wallace, 2008
-    Acropora yongei Veron and Wallace, 1984
+Montipora aequituberculata Bernard, 1897
+Montipora altasepta Nemenzo, 1967
+Montipora angulata Lamarck, 1816
+Montipora aspergillus Veron, DeVantier & Turak, 2000
+Montipora australiensis Bernard, 1897
+Montipora biformis Nemenzo, 1988
+Montipora cactus Bernard, 1897
+Montipora calcarea Bernard, 1897
+Montipora calculata Dana, 1846
+Montipora capitata Dana, 1846
+Montipora capricornis Veron, 1985
+Montipora cebuensis Nemenzo, 1976
+Montipora circumvallata Ehrenberg, 1834
+Montipora cocosensis Vaughan, 1918
+Montipora confusa Nemenzo, 1967
+Montipora conspicua Nemenzo, 1979
+Montipora contorta Nemenzo & Montecillo, 1981
+Montipora corbettensis Veron & Wallace, 1984
+Montipora crassituberculata Bernard, 1897
+Montipora cryptus Veron, 2000
+Montipora danae Milne Edwards & Haime, 1851
+Montipora delicatula Veron, 2000
+Montipora digitata Dana, 1846
+Montipora dilatata Studer, 1901
+Montipora echinata Veron, DeVantier & Turak, 2000
+Montipora edwardsi Bernard, 1897
+Montipora efflorescens Bernard, 1897
+Montipora effusa Dana, 1846
+Montipora ehrenbergi Verrill, 1872
+Montipora explanata Brüggemann, 1879
+Montipora flabellata Studer, 1901
+Montipora florida Nemenzo, 1967
+Montipora floweri Wells, 1954
+Montipora foliosa Pallas, 1766
+Montipora foveolata Dana, 1846
+Montipora friabilis Bernard, 1897
+Montipora gaimardi Bernard, 1897
+Montipora gracilis Klunzinger, 1879
+Montipora grisea Bernard, 1897
+Montipora hemispherica Veron, 2000
+Montipora hirsuta Nemenzo, 1967
+Montipora hispida Dana, 1846
+Montipora hodgsoni Veron, 2000
+Montipora hoffmeisteri Wells, 1954
+Montipora incrassata Dana, 1846
+Montipora informis Bernard, 1897
+Montipora kellyi Veron, 2000
+Montipora lobulata Bernard, 1897
+Montipora mactanensis Nemenzo, 1979
+Montipora malampaya Nemenzo, 1967
+Montipora maldivensis Pillai & Scheer, 1976
+Montipora manauliensis Pillai, 1967
+Montipora meandrina Ehrenberg, 1834
+Montipora millepora Crossland, 1952
+Montipora mollis Bernard, 1897
+Montipora monasteriata Forskåi, 1775
+Montipora niugini Veron, 2000
+Montipora nodosa Dana, 1846
+Montipora orientalis Nemenzo, 1967
+Montipora pachytuberculata Veron, DeVantier & Turak
+Montipora palawanensis Veron, 2000
+Montipora patula Verrill, 1870
+Montipora peltiformis Bernard, 1897
+Montipora porites Veron, 2000
+Montipora samarensis Nemenzo, 1967
+Montipora saudii Veron, DeVantier & Turak
+Montipora setosa Nemenzo, 1976
+Montipora sinuosa Pillai & Scheer, 1976
+Montipora spongiosa Ehrenberg, 1834
+Montipora spongodes Bernard, 1897
+Montipora spumosa Lamarck, 1816
+Montipora stellata Bernard, 1897
+Montipora stilosa
+Montipora suvadivae Pillai & Scheer, 1976
+Montipora taiwanensis Veron, 2000
+Montipora tortuosa Dana, 1846
+Montipora tuberculosa Lamarck, 1816
+Montipora turgescens Bernard, 1897
+Montipora turtlensis Veron & Wallace, 1984
+Montipora undata Bernard, 1897
+Montipora venosa Ehrenberg, 1834
+Montipora verrilli Vaughan, 1907
+Montipora verrucosa Lamarck, 1816
+Montipora verruculosa Veron, 2000
+Montipora vietnamensis Veron, 2000
+
+Isopora brueggemanni (Brook, 1893)
+Isopora crateriformis (Gardiner, 1898)
+Isopora cuneata (Dana, 1846)
+Isopora elizabethensis (Veron, 2000)
+Isopora matahari Santodomingo, Wallace & Johnson, 2015
+Isopora palifera (Lamarck, 1816)
+Isopora togianensis (Wallace, 1997)
+
+Astreopora acroporina Wallace, Turak & DeVantier, 2011
+Astreopora cenderawasih Wallace, Turak & DeVantier, 2011
+Astreopora cucullata Lamberts, 1980
+Astreopora expansa Brüggemann, 1877
+Astreopora explanata Veron, 1985
+Astreopora gracilis Bernard, 1896
+Astreopora incrustans Bernard, 1896
+Astreopora lambertsi Moll and Best, 1984
+Astreopora listeri Bernard, 1896
+Astreopora macrostoma Veron and Wallace, 1984
+Astreopora monteporina Wallace, Turak & DeVantier, 2011
+Astreopora moretonensis Veron and Wallace, 1984
+Astreopora myriophthalma (Lamarck, 1816)
+Astreopora ocellata Bernard, 1896
+Astreopora randalli Lamberts, 1980
+Astreopora scabra Lamberts, 1982
+Astreopora suggesta Wells, 1954
+
+Anacropora forbesi - Ridley, 1884
+Anacropora matthai - Pillai, 1973
+Anacropora pillai - Veron, 2002
+Anacropora puertogalerae - Nemenzo, 1964
+Anacropora reticulata - Veron and Wallace, 1984
+Anacropora spinosa - Rehberg, 1892
+Anacropora spumosa - Veron, Turak & DeVantier, 2002[3]
+
+Alveopora allingi Hoffmeister, 1925
+Alveopora catalai Wells, 1968
+Alveopora daedalea (Forsskål, 1775)
+Alveopora excelsa Verrill, 1864
+Alveopora fenestrata (Lamarck, 1816)
+Alveopora gigas Veron, 1985
+Alveopora japonica Eguchi, 1968
+Alveopora marionensis Veron & Pichon, 1982
+Alveopora minuta Veron, 2000
+Alveopora noamiae Nemenzo, 1979
+Alveopora ocellata Wells, 1954
+Alveopora simplex
+Alveopora spongiosa Dana, 1846
+Alveopora superficialis Pillai & Scheer, 1976
+Alveopora tizardi Bassett-Smith, 1890
+Alveopora verrilliana Dana, 1846
+Alveopora viridis (Quoy & Gaimard, 1833)
