@@ -9,14 +9,29 @@ import urllib.request
 from urllib.error import HTTPError
 import json
 
-# Print a helpful message
 def printUsage():
+    """Prints a usage message"""
+
     print("Usage: python3 getCrossrefPdfs.py <query_string> <output_dir> <MAX_RESULTS>")
     print("e.g. To download a max of 100 articles with the words lions and/or tigers and output pdfs in current dir:")
     print("python3 getCrossrefPdfs.py lions,tigers . 100")
 
-# Try to download pdfs (often can't determine type from filename)
 def downloadPdf(link, filename):
+    """Try to download pdf from a link, save it with the given filename
+
+    Parameters
+    ----------
+    link : str
+        The URL from which to try and download a pdf
+    filename : str
+        A filename for the downloaded pdf
+
+    Raises
+    ------
+    Exception
+        There was a problem opening the URL or the link was not actually a pdf
+    """
+
     filepath = output_dir+"/"+filename
     if os.path.isfile(filepath):
         return # already done, don't re-download
@@ -34,28 +49,54 @@ def downloadPdf(link, filename):
     except Exception:
         raise
 
-# Download article data from doi.org as recommended by Crossref.org
 def downloadPdfLink(doi):
+    """Download article data from doi.org as recommended by Crossref.org
+
+    Parameters
+    ----------
+    doi : string
+        The DOI to lookup on dx.doi.org
+
+    Returns
+    -------
+    str
+        The pdf link returned in the response header by dx.doi.org
+    """
+
     opener = urllib.request.build_opener()
     opener.addheaders = [('Accept', 'application/vnd.crossref.unixsd+xml')]
     doi_link = 'http://dx.doi.org/'+doi
     r = opener.open(doi_link)
     r_link = (r.info()['Link'])
 
-    # Extract pdf link if present
-    # (Use regex to find the link that comes directly before the first application/pdf)
+    # Extract pdf link if present (use regex to find the link that comes
+    # directly before the first application/pdf)
     pdf_match = re.search('(?: <)(http[^>]*)(?=>; version=\"vor\"; type=\"application\/pdf\")', r_link)
     if pdf_match:
         return(pdf_match.groups()[0])
 
-    # If no specific pdf link is present, try the other link (sometimes it is a pdf)
+    # If no specific pdf link is present, try the link that is given
     other_match = re.search('(?: <)(http[^>]*)(?=>; version=\"vor\"; rel=\"item\")', r_link)
     if other_match:
         return(other_match.groups()[0])
 
-    return(doi_link) # last resort, could possibly redirect to a pdf
+    # Return original link as last resort - could possibly redirect to a pdf
+    return(doi_link)
 
-def main(query, output_dir, max_results):
+def main():
+    # Check for correct arguments, then initialize and call main
+    if (len(sys.argv) != 4) or not sys.argv[3].isdigit():
+        printUsage()
+        sys.exit(1)
+
+    query = re.sub(',', '+', sys.argv[1])  # prepare query string for url
+    output_dir = sys.argv[2]
+    max_results = sys.argv[3]
+
+    # Create output directory if it doesn't exist
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     human_needed = []
     downloads_remaining = 50
 
@@ -95,17 +136,4 @@ def main(query, output_dir, max_results):
     return(0)
 
 if __name__ == "__main__":
-    # Check for correct arguments, then initialize and call main
-    if (len(sys.argv) != 4) or not sys.argv[3].isdigit():
-        printUsage()
-        sys.exit(1)
-
-    query = re.sub(',', '+', sys.argv[1])  # prepare query string for url
-    output_dir = sys.argv[2]
-    max_results = sys.argv[3]
-
-    # Create output directory if it doesn't exist
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
-    main(query, output_dir, max_results)
+    main()
