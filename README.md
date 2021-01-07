@@ -5,9 +5,9 @@ Some code for downloading and analyzing journal articles using Crossref API, Gro
 
 ## scrapeScholarPdfs.sh
 
-My first attempt was a script using wget2 to download all pdfs returned by a Google Scholar search query.
+My first attempt to download a dataset was a script using wget2 to download all pdfs returned by a Google Scholar search query.
 
-Not a good solution. This works but eventually Google will block it. I'm thinking if we want to get the pdfs through Google Scholar we can go through something like scraperapi.com to download all the search result pages, then grab the pdf links and download those automatically.
+This works but eventually Google will block it. Moving on...
 
 ## getCrossrefPdfs.py
 
@@ -43,10 +43,10 @@ python3 xml2csv.py papers .
 
 ## CoralAnalysis.ipynb
 
-Here are some initial ideas that I explored in an iPython notebook:
+Here are some initial ideas that I explored in this iPython notebook:
 
-1) Find which Acropora species are in each article, rank the species by most commonly studied. Could be expanded to all genera.
+1) Find which Acroporid species are in each article, rank the species by most commonly studied.
 
-2) Find which genes are in each article, rank genes by most commonly studied. A bit problematic because I think sometimes full protein names and official gene names aren't used verbatim. I took my list from Uniprot (https://www.uniprot.org/uniprot/?query=organism%3Aacropora&sort=score). Only used genes listed on Uniprot for Acropora, could be expanded to genes from all genera.
+2) Find which genes are in each article, rank genes by most commonly studied. I downloaded all genes on Swissprot, though there may be better ways of doing this.
 
-3) Sorting articles: I think the idea of TF-IDF distance is interesting, so I tried nearest-neighbor and K-means clustering models with turicreate. Doesn't do much on my test datasets but could be interesting if analyzing a lot of articles and/or the article fulltext.
+3) Sorting articles: I think the idea of TF-IDF distance is interesting, so I tried nearest-neighbor and K-means clustering models with turicreate. Not so relevant for the particular datasets I tried it on, but could be for others.
